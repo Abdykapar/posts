@@ -1,5 +1,5 @@
 # Posts
 Post list with pagination and post view with comments
 
-##Technologies
+## Technologies
 React, redux, html
